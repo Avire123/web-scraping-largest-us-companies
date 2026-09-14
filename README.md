@@ -134,7 +134,7 @@ Please respect the website's terms, robots.txt, rate limits, and applicable poli
 
 ## Author
 
-**Isaac Mcharo**
+**John Isaac Mcharo**
 
 Data Analyst | Data Science Enthusiast
 
